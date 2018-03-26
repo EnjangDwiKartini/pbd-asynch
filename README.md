@@ -8,3 +8,10 @@ Pertama selesai. (Synchronous)
 
 Ø  Chatting melalui social network
 Pada saat user melakukan intput perhuruf (pengetikan) tidak terjadi waktu tunggu untuk proses pertama selesai, akan tetapi  user dapat langsung menginput huruf selanjutnya yang di inginkan. (Asynchoronous).
+
+Link Direktori Callback :
+https://github.com/EnjangDwiKartini/pbd-asynch/tree/master/callback
+Link Direktori promise :
+https://github.com/EnjangDwiKartini/pbd-asynch/tree/master/promise
+Link Direktori async-await :
+https://github.com/EnjangDwiKartini/pbd-asynch/tree/master/async-await
